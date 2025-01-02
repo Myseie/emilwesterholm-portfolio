@@ -27,6 +27,11 @@ function Skills() {
                 src={checkMarkIcon}
                  skill="Node"           
             />
+               <SkillList
+               src={checkMarkIcon}
+               skill="C#"
+               />
+
         </div>
         <hr />
         <div className={styles.skillList}>
