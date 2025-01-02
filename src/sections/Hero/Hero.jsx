@@ -37,7 +37,7 @@ function Hero() {
             </h1>
             <h2>Utvecklare</h2>
             <span>
-                <a href="https://www.linkedin.com/emilwesterholm/" target="_blank">
+                <a href="https://www.linkedin.com/in/emilwesterholm/" target="_blank">
                 <img src={linkedInIcon} alt="Linkedin-icon" /></a>
                 <a href="https://www.github.com/Myseie" target="_blank">
                 <img src={githubIcon} alt="github-icon" /></a>
