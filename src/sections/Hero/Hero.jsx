@@ -45,7 +45,7 @@ function Hero() {
             <p className={styles.description}>Som brinner för att skapa nya möjligheter för dig!</p>
             <a href={CV} download>
                 <button className="hover" > 
-                Resume
+                CV
                 </button>
             </a>
         </div>
